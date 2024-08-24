@@ -12,35 +12,35 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: manulofficial" //ur yt chanel name
-global.socialm = "GitHub: manulofficial7" //ur github or insta name
-global.location = "Lumajang, Jatim, Indonesia" //ur location
+global.socialm = "GitHub: chibuikeemmanuel" //ur github or insta name
+global.location = "Anambra,Nigeria" //ur location
 
 //new
-global.botname = 'Manul_Official_WhatsApp_Bot_MD V12' //ur bot name
-global.ownernumber = '94742274855' //ur owner number
-global.ownername = '©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠' //ur owner name
-global.websitex = "https://github.com/manulofficial7"
-global.wagc = "https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
+global.botname = 'METRO-V12' //ur bot name
+global.ownernumber = '2348119001999' //ur owner number
+global.ownername = '©ʍɾEMMANUEL♠' //ur owner name
+global.websitex = "https://github.com/chibuikeemanuel"
+global.wagc = "https://chat.whatsapp.com/FdPumfC9EWhEH0JwZknx3H"
 global.themeemoji = '🪀'
 global.wm = "Manu Bot Inc."
-global.botscript = 'https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4' //script link
+global.botscript = 'https://github.com/chibuikeemmanuel/Manul_Official_WhatsApp_Bot_V4' //script link
 global.packname = "Sticker By"
-global.author = "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠ Xeon\n\n+94742274855"
-global.creator = "94742274855@s.whatsapp.net"
+global.author = "©ʍɾ EMMANUEL♠ Xeon\n\n+2348119001999"
+global.creator = "2348119001999@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94742274855"] // Premium User
+global.premium = ["2348119001999"] // Premium User
 global.hituet = 0
 
 //bot sett
 global.typemenu = 'v10' // menu type 'v1' => 'v10'
-global.typereply = 'v4' // reply type 'v1' => 'v4'
+global.typereply = 'v6' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
-global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.anticall = true //bot blocks user when called
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
